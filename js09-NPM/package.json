@@ -1,0 +1,19 @@
+{
+  "name": "js09-npm",
+  "version": "0.0.1",
+  "description": "sesion js09 usod de npm",
+  "main": "./assets/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "axiox",
+    "fetch"
+  ],
+  "author": "Luis F",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
